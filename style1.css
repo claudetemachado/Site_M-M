@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head{
+    background-color: #fff;
+    height: 130px;
+    width: 100%;
+}
+.corpo{
+    background-color: #ffd43e;
+    height: 100vb;
+    width: 100%;
+}
